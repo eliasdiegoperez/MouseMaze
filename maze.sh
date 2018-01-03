@@ -6,7 +6,7 @@
 #Author: Elias Perez
 #Course: CPSC 223c
 #Semester: 2017 Spring
-#Due date: 13 May 2017
+#Date: 13 May 2017
 
 
 #First erase any old object files and old executable files, if any exist from past compilations
